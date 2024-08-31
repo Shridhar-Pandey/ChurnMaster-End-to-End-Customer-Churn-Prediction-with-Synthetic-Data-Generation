@@ -19,7 +19,8 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/churnmaster.git
+   git clone https://github.com/Shridhar-Pandey/ChurnMaster-End-to-End-Customer-Churn-Prediction-with-Synthetic-Data-Generation.git
+
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
